@@ -6,3 +6,7 @@ This repository contains a set of experiments and inference runs using instructi
 The work is part of a TFG (Trabajo Fin de Grado / Bachelor’s Final Project) and focuses on evaluating model behavior, prompt strategies, and inference consistency in a controlled environment.
 
 ---
+
+### 📂 Dataset
+
+The dataset used in this project is derived from the **HealthCareMagic-100k-llama3** dataset on Hugging Face, which was already cleaned, preprocessed, and formatted for use in language model fine-tunning experiments.
